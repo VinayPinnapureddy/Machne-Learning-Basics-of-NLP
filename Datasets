@@ -2,6 +2,6 @@ Use the datasets from the following link
 
 https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-Here we used database.sqlite file to understands the usage of SQLite database file in reading the data in Machine Learning
+Here we used database.sqlite file to understand the usage of SQLite database file in reading the data in Machine Learning
 
 We can also use .CSV file and perform the process.
