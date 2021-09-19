@@ -26,6 +26,10 @@ TF_IDF:
 
 We use some mathematical formulations to convert Text to Numerical vector representation.
 
+# Additional Information
+
+Learn about Regular Expression in python from  https://pymotw.com/2/re/
+
 
 
 
